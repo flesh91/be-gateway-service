@@ -51,7 +51,7 @@
         "axios": "1.7.2",
         "compare-versions": "6.1.1",
         "ejs": "3.1.10",
-        "formidable": "3.5.1",
+        "formidable": "3.5.4",
         "glob": "11.0.0",
         "lodash": "4.17.21",
         "minio": "7.1.1",
