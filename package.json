@@ -48,7 +48,7 @@
         "@diia-inhouse/types": "6.41.0",
         "@diia-inhouse/utils": "3.6.0",
         "@diia-inhouse/validators": "1.17.0",
-        "axios": "1.7.2",
+        "axios": "1.13.2",
         "compare-versions": "6.1.1",
         "ejs": "3.1.10",
         "formidable": "3.5.1",
